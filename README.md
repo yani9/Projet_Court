@@ -1,13 +1,18 @@
-Petite note : La mise en place du répertoire Git a été en retard, je suis vraiment désole. Le script python n'a pas été modifié après 14h. 
+Petite note : La mise en place du répertoire Git  (dépot du projet sur git+ README.md) a été en retard, je suis vraiment désolé. Le script python (projet_transmb.py) n'a pas été modifié après 14h.
 
 Le programme principale se nomme : projet_transmb.py 
 
 Prérequis : 
 -dssp 3.0.0
+
 -biopython 1.79
+
 -matplotlib 3.3.4
+
 -mayavi 4.7.2
+
 -pandas 1.3.2
+
 -numpy 1.20.3
 
 Usage : 
